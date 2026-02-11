@@ -27,7 +27,8 @@ Additional rules:
 - If complaint exists for the attribute/aspect, sentiment must be "negative".
 - If both praise and complaint exist for the attribute/aspect, use "mixed".
 - Do NOT infer sentiment without textual evidence.
-- Output JSON only (no markdown, no extra text).
+- Output JSON only (no markdown, no extra text.
+- DO NOT WRAP THE OUTPUT JSON IN ```json or ```
 
 Below are the details to answer the query
 

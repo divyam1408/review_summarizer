@@ -64,6 +64,7 @@ def classify_review(review: dict, product_attributes: list[str], product_details
     "PRODUCT_NAME":product_details.get("title")
   })
 
+  print(result.content)
   result = ReviewResult.model_validate_json(result.content)
   return result
 
