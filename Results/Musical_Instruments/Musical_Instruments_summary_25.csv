@@ -1,0 +1,10 @@
+attribute,mention_count,positive_count,negative_count
+comfort,12,11,5
+durability,4,2,3
+cord_length,3,3,0
+price,3,3,0
+clarity,3,3,1
+design,1,1,0
+noise_isolation,1,1,0
+mobility,1,1,0
+bass,1,1,0

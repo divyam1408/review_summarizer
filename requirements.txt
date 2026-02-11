@@ -1,0 +1,6 @@
+datasets==2.18.0
+langchain
+langchain-huggingface
+langchain-core
+langchain-community
+langchain-classic

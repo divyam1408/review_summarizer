@@ -1,0 +1,14 @@
+attribute,mention_count,positive_count,negative_count
+size,7,7,2
+assembliness,5,5,0
+moveability,5,4,1
+dog_suitability,4,4,0
+quality,4,4,0
+space,3,3,0
+safety,2,2,0
+packaging,2,1,1
+divider_panel,2,2,0
+price,2,2,0
+durability,1,1,0
+new,1,1,0
+accessories,1,0,1
