@@ -1,8 +1,0 @@
-#!/bin/sh
-'''exec' "/home/divyam/Documents/Learning/Product Review summarizer/venv/bin/python3" "$0" "$@"
-' '''
-import sys
-from datasets.commands.datasets_cli import main
-if __name__ == '__main__':
-    sys.argv[0] = sys.argv[0].removesuffix('.exe')
-    sys.exit(main())
