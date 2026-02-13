@@ -153,5 +153,4 @@ dmypy.json
 cython_debug/
 
 # Model Output
-Results/
 *.csv
